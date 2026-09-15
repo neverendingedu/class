@@ -1,3 +1,8 @@
+# 중간 대처
+
+모집기간: 2026. 9. 2.(수) ~ 9. 18.(금)
+[2026 의료·AI·반도체 학부생 창업 지원 프로그램 모집 공고](https://ycms.yonsei.ac.kr/maisc/form.do?mode=view&articleNo=76634&article.offset=0&articleLimit=10)
+
 # 멘토링 스케줄링
 
 |월|화|수|목|금|
