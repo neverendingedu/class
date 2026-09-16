@@ -16,6 +16,7 @@
 |-|-|-|
 |최강도전|최선우<br>강환일<br>|0|
 |first seed|노은정<br>정유라<br>송채원<br>|0|
+|Da.ro|김정현<br>최은호<br>|0|
 
 # 문의
 fpga@yonsei.ac.kr
