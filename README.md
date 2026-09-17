@@ -15,6 +15,9 @@
 |9/21<br>09:00-10:00 AeroCare<br>10:00-11:00 수업<br>11:00-12:00 최강도전<br>12:00-13:00 first seed<br>|22<br>9:00-11:00 불가(회의)<br>11:00-12:00 Da.ro|23|24<br>**추석 연휴**|25<br>**추석 연휴**|
 |28<br>09:00-13:00 nvidia ambassador meetup<br>**[휴강]**|29<br>9:00-11:00 불가(회의)<br>11:00-12:00 Da.ro|30|10/1|2<br>11:00-12:00 AeroCare|
 |5<br>**대체 휴일**|6<br>9:00-11:00 불가(회의)|7|8|9<br>**한글날**|
+|12|13|14|15|16|
+|19<br>nvidia GTC Berlin|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
+
 
 # 팀 멘토링 카운트
 |팀명|팀원|횟수|
