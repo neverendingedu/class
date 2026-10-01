@@ -12,7 +12,7 @@
 
 |월|화|수|목|금|
 |-|-|-|-|-|
-|9/28<br>09:00-13:00 nvidia ambassador meetup<br>**[휴강]**|29<br>9:00-11:00 불가(회의)<br>11:00-12:00 Da.ro<br>17:00-18:00 AeroCare|30<br>11:00-12:00 채크메이트<br>14:00-18:00 취업 페스타/AX 전환 포럼|10/1<br>16:00-17:00 회의<br>17:00-18:00 first seed|2<br>11:00-12:00 최강도전|
+|9/28<br>09:00-13:00 nvidia ambassador meetup<br>**[휴강]**|29<br>9:00-11:00 불가(회의)<br>11:00-12:00 Da.ro<br>17:00-18:00 AeroCare|30<br>11:00-12:00 채크메이트<br>14:00-18:00 취업 페스타/AX 전환 포럼|10/1<br>16:00-17:00 회의<br>17:00-18:00 first seed|2<br>11:00-12:00 최강도전<br>17:00-18:00 MediScribe(경진대회팀)|
 |5<br>**대체 휴일**|6<br>9:00-11:00 불가(회의)<br>11:00-12:00 Da.ro|7<br>11:00-12:00 채크메이트|8<br>09:00-10:00 이게 반도체야<br>13:00-15:00 회의|9<br>**한글날**|
 |12<br>10:00-11:00 수업<br>|13<br>16:30-17:30 AeroCare|14|15<br>강원 의료기기 CEO 포럼 (하루종일 불가)|16<br>강원 의료기기 CEO 포럼 (하루종일 불가)|
 |19<br>nvidia GTC Berlin|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
