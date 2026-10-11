@@ -23,10 +23,10 @@
 |월|화|수|목|금|
 |-|-|-|-|-|
 |10/12<br>10:00-11:00 수업<br>11:00-12:00 최강도전|13<br>09:00-10:00 회의<br>10:00-11:00 이게 반도체야<br>13:00-15:00 회의<br>16:30-17:30 AeroCare|14|15<br>강원 의료기기 CEO 포럼 (하루종일 불가)|16<br>강원 의료기기 CEO 포럼 (하루종일 불가)|
-|10/19<br>nvidia GTC Berlin|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
+|10/19<br>[nvidia GTC Berlin](https://www.nvidia.com/en-eu/gtc/)|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
 |10/26<br>10:00-11:00 수업|27<br>11:00-12:00 Da.ro|28<br>AI&강원 반도체 포럼|29<br>AI&강원 반도체 포럼|30|
 |11/2<br>10:00-11:00 수업|3|4|5<br>17:00-18:00 first seed|6|
-|11/9<br>nvidia AI Day seoul|10<br>nvidia AI Day seoul|11|12<br>Y-mas 경진대회|13<br>Y-mas 경진대회|
+|11/9<br>[nvidia AI Day seoul](https://www.nvidia.com/ko-kr/ai-days/)|10<br>nvidia AI Day seoul|11|12<br>Y-mas 경진대회|13<br>Y-mas 경진대회|
 
 # 팀 멘토링 카운트(필수 횟수 8회)
 |팀명|팀원|횟수|
